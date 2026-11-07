@@ -1,5 +1,3 @@
-# -PICO-VIRITUALMACHINE-EMULATOR-PROTECTION-PVMEP-
-A lightweight 4KB micro-scale CPU emulator environment designed for secure code simulation and tracking
 # PVMEP: PICO-VIRTUALMACHINE-EMULATOR-PROTECTION
 
 A lightweight, micro-scale CPU emulator environment designed for secure **PROTECTION**, simulating and tracing x86 (32-bit) instructions inside an isolated **4KB memory boundary** (1 CPU Page Size). 
